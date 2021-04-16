@@ -32,8 +32,8 @@ $ git clone https://github.com/breatheco-de/exercise-collaborative-html-website.
 
 Para poder ejecutar tu sitio web usa este comando en la terminal:
 
-```bash
-$ npx http-server --yes -c-1
+```bashnpx http-server --yes -c-1
+$ 
 ```
 
 ## Implementar el sitio web
